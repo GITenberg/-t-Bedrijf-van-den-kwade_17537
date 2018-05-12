@@ -1,0 +1,26 @@
+_repo: -t-Bedrijf-van-den-kwade_17537
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Teirlinck, Herman
+    birthdate: 1879
+    deathdate: 1967
+    gutenberg_agent_id: '6967'
+    url: http://www.gutenberg.org/2009/agents/6967
+description: ''
+gutenberg_issued: '2006-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17537'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fiction'
+title: '''t Bedrijf van den kwade'
+url: http://www.gutenberg.org/ebooks/17537
